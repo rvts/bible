@@ -3,6 +3,7 @@ the bible
 
 genesis
 exodus
+Esther
 markus
 matteus
 lukas
